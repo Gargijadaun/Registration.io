@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Registration.io/static/css/main.f06ed565.css",
+    "main.js": "/Registration.io/static/js/main.308db2a3.js",
+    "static/media/Veg n Fru Ind logo.png": "/Registration.io/static/media/Veg n Fru Ind logo.a268d9bebb660f8b9462.png",
+    "index.html": "/Registration.io/index.html",
+    "main.f06ed565.css.map": "/Registration.io/static/css/main.f06ed565.css.map",
+    "main.308db2a3.js.map": "/Registration.io/static/js/main.308db2a3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f06ed565.css",
+    "static/js/main.308db2a3.js"
+  ]
+}
