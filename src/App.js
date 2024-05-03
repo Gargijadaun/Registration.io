@@ -158,9 +158,9 @@ export default function App() {
                 setShowButtons(true);
               }}
             >
-              Go Back
+             
             </button>
-            <input type="submit" value="Submit" />
+            <input type="submit" value="" />
           </form>
         </div>
       )}
